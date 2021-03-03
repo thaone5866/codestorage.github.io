@@ -9,3 +9,7 @@ storage bookmarklet `javascript:var s=document.createElement('script');s.type='t
 
 [my youtube channel](https://www.youtube.com/channel/UCl6Xu7SiGfDcI-KBP54eYtA)
 more soon...
+
+
+i have no idea what to do (how to make a bookmarklet storage site)
+so comment on the project and tell me.
